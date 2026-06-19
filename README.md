@@ -1,75 +1,75 @@
 # Market Research Engine
 
-Market Research Engine is a continuously updated tool for checking the commercial value of an idea or project: market size, competitors, demand trends, target audience, valued features, risks, and likely positioning.
+Market Research Engine is a tool that helps people test the business value of an idea. It explains the market, competitors, target users, trends, risks, and the next experiments to run.
 
-## Идея простыми словами
+## Simple Description
 
-Это программа, куда можно ввести идею и быстро понять, есть ли у нее коммерческий смысл: какой рынок, кто конкуренты, растет он или падает, кто покупатель, что люди ценят, какая фича может стать сильным преимуществом.
+You enter a startup idea or project. The system gives you a clear market report: who might buy it, who already competes there, whether the market is growing, what customers care about, and what could make the product stand out.
 
-## Подробное описание
+## Full Description
 
-Проверка идеи обычно требует ручного исследования: искать конкурентов, читать отчеты, смотреть отзывы, изучать тренды, анализировать цены, собирать портрет аудитории. Market Research Engine автоматизирует первичный рыночный анализ и постоянно обновляет данные, чтобы выводы не устаревали.
+Early market research is slow and messy. Founders usually need to search competitors, read reviews, compare pricing, study trends, and guess which customer segment matters most. Market Research Engine turns this into a repeatable report.
 
-Пользователь описывает идею или проект. Система определяет категорию, похожие продукты, рынки, ключевые поисковые запросы, конкурентов, тренды, сегменты аудитории, боли клиентов и ценимые предложения. Итог - краткий, практичный отчет: насколько идея коммерчески перспективна, где рынок, кто уже работает в этой зоне, чем можно отличаться и какие гипотезы надо проверить.
+The product starts from a plain-text idea. It classifies the market, finds similar products, gathers public signals, groups competitors, reads customer complaints, estimates demand trends, and suggests practical next steps. The goal is not to produce a perfect investment memo. The goal is to quickly show whether an idea deserves more time, money, and validation.
 
-## Основные вопросы, на которые отвечает продукт
+## Questions It Answers
 
-- Есть ли у идеи рынок.
-- Кто прямые и косвенные конкуренты.
-- Растет или уменьшается интерес.
-- Кто целевая аудитория.
-- За что люди уже платят.
-- Какие жалобы повторяются у клиентов конкурентов.
-- Какая фича может стать сильным дифференциатором.
-- Какой первый MVP имеет смысл делать.
+- Does this idea have a real market?
+- Who are the direct and indirect competitors?
+- Is interest growing or shrinking?
+- Who is the likely target user?
+- What do customers already pay for?
+- What complaints repeat across competitor reviews?
+- What feature could become a strong differentiator?
+- What MVP should be tested first?
 
-## Пользователи
+## Users
 
-- Основатели стартапов.
-- Indie hackers.
-- Product managers.
-- Маркетологи.
-- Малый бизнес.
-- Разработчики, проверяющие side project.
+- Startup founders
+- Indie hackers
+- Product managers
+- Marketers
+- Small business owners
+- Developers testing side projects
 
 ## MVP
 
-- Ввод идеи простым текстом.
-- Классификация рынка и сегмента.
-- Поиск конкурентов из открытых источников.
-- Анализ отзывов и позиционирования.
-- Оценка тренда спроса.
-- Генерация краткого отчета с выводами и рисками.
+- Plain-text idea input
+- Market and segment classification
+- Competitor discovery from public sources
+- Review and positioning analysis
+- Demand trend estimate
+- Short report with conclusions, risks, and next experiments
 
-## Похожие проекты и отличие
+## Similar Projects And Difference
 
-- Similarweb: сильная web и market intelligence платформа. Отличие Market Research Engine - старт от сырой идеи, а не от уже известного сайта или рынка.
-- SparkToro: помогает понять аудиторию и каналы внимания. Отличие - проект должен собирать полный startup-oriented отчет: рынок, конкуренты, боли, фичи, риски, MVP-гипотезы.
-- Exploding Topics и Google Trends: показывают тренды спроса. Отличие - тренды являются только одним сигналом внутри комплексной оценки идеи.
-- CB Insights, PitchBook, Crunchbase: сильны для компаний, инвестиций и сделок. Отличие - более дешевый и быстрый инструмент для founders, indie hackers and product teams.
-- Perplexity/ChatGPT-style research: могут собрать ответы вручную, но не дают стабильного формата отчета, provenance, обновления и сравнения идей как продукта.
+- Similarweb is strong for web and market intelligence, but usually starts from known websites or markets. Market Research Engine starts from a raw idea.
+- SparkToro helps understand audiences and attention channels. This project aims to produce a wider startup report: market, competitors, pains, features, risks, and MVP tests.
+- Exploding Topics and Google Trends show demand signals. Here, trend data is only one part of the analysis.
+- CB Insights, PitchBook, and Crunchbase are strong for company and investment data. This project should be cheaper, faster, and more useful for early founders and product teams.
+- General AI search tools can help manually, but they do not provide a stable report format, source tracking, updates, and idea comparison as a product.
 
-Главное отличие проекта - “ввел идею, получил коммерческую карту”: рынок, конкуренты, ЦА, растет/падает, за что платят, чем отличиться и какие эксперименты делать дальше.
+The main difference is the workflow: enter an idea, get a practical business map.
 
-## Источники данных
+## Data Sources
 
-Первый MVP может использовать только доступные и легальные открытые источники: поисковая выдача, сайты конкурентов, marketplace listings, отзывы, публичные каталоги, тренды поисковых запросов, новости, app stores, GitHub, Product Hunt и другие публичные сигналы. Платные отчеты можно не копировать, а использовать как ссылочные индикаторы при наличии доступа.
+The first version should use legal public sources: search results, competitor websites, marketplace listings, reviews, public directories, trend data, news, app stores, GitHub, Product Hunt, and similar signals. Paid reports should not be copied, but they can be referenced when access is available.
 
-## Риски
+## Risks
 
-- Поверхностные данные могут давать ложную уверенность.
-- Рынок может быть большим, но недоступным для конкретного проекта.
-- Автоматический анализ конкурентов требует аккуратной проверки источников.
-- "Коммерческая ценность" зависит не только от идеи, но и от исполнения, канала продаж и команды.
+- Shallow data can create false confidence.
+- A market can be large but hard to enter.
+- Automated competitor analysis needs careful source tracking.
+- Business value depends on execution, distribution, and timing, not only the idea.
 
-## Монетизация
+## Monetization
 
-- Бесплатная базовая проверка идеи.
-- Платные глубокие отчеты.
-- Подписка на мониторинг рынка и конкурентов.
-- B2B-пакеты для продуктовых команд.
-- API для venture studios и акселераторов.
+- Free basic idea check
+- Paid deep reports
+- Subscription for market and competitor monitoring
+- B2B packages for product teams
+- API for venture studios and accelerators
 
-## Документы
+## Documents
 
 See [roadmap.md](roadmap.md).

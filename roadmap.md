@@ -2,37 +2,37 @@
 
 ## Phase 1: Report Contract
 
-- Зафиксировать структуру отчета: summary, market, competitors, audience, trends, pains, opportunities, risks, next experiments.
-- Определить шкалу коммерческой привлекательности.
-- Разделить факты, оценки и предположения.
-- Требовать ссылки на источники для ключевых утверждений.
+- Define the report structure: summary, market, competitors, audience, trends, pains, opportunities, risks, and next experiments.
+- Define a simple business attractiveness score.
+- Separate facts, estimates, and assumptions.
+- Require sources for key claims.
 
 ## Phase 2: Data Collection
 
-- Реализовать сбор публичных страниц по ключевым запросам.
-- Извлекать конкурентов, описания, цены, отзывы и частые claims.
-- Добавить кэширование источников и дату обновления.
-- Сохранять provenance для каждого вывода.
+- Collect public pages for relevant search queries.
+- Extract competitors, descriptions, prices, reviews, and common claims.
+- Cache sources and store the last update date.
+- Keep provenance for every important conclusion.
 
 ## Phase 3: Analysis Pipeline
 
-- Классифицировать рынок и сегменты.
-- Группировать конкурентов по типам.
-- Извлекать повторяющиеся боли из отзывов.
-- Находить gaps: что пользователи хотят, но плохо получают.
-- Оценивать рост или спад по доступным трендовым сигналам.
+- Classify markets and segments.
+- Group competitors by type.
+- Extract repeated customer pains from reviews.
+- Find gaps between what users want and what competitors offer.
+- Estimate growth or decline from available trend signals.
 
 ## Phase 4: Product UX
 
-- Сделать простой ввод идеи.
-- Показывать быстрый бесплатный отчет.
-- Предлагать глубокий платный анализ.
-- Добавить сравнение нескольких идей.
-- Добавить сохранение проектов и повторное обновление отчета.
+- Build a simple idea input form.
+- Show a fast free report.
+- Offer a deeper paid analysis.
+- Add comparison between multiple ideas.
+- Add saved projects and report refresh.
 
 ## Phase 5: Validation
 
-- Проверить отчеты на известных рынках, где результат можно сравнить с реальностью.
-- Провести интервью с founders и product managers.
-- Измерить, какие разделы отчета реально помогают принять решение.
-- Проверить willingness to pay за глубокий отчет и мониторинг.
+- Test reports on known markets where reality can be checked.
+- Interview founders and product managers.
+- Measure which report sections actually help decisions.
+- Test willingness to pay for deep reports and monitoring.
